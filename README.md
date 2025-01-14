@@ -1,10 +1,4 @@
-**HTTP-Client**
-
----
-
-### README File Description  
-
-# HTTP Client (C Program)
+# HTTP Client 
 
 This is a simple C-based HTTP client that connects to a specified server, sends an HTTP GET request, and receives the response. The program is designed to be compiled and run from the command line.
 
